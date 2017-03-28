@@ -6,7 +6,7 @@
 class RTSConfig
 {
 public:
-    std::string someMethod() { return "Hello, World!"; }
+    std::string someMethod() { return "Hello from someMethod()!"; }
 };
 
 class Scheduler
